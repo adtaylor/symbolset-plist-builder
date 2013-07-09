@@ -2,7 +2,8 @@
 // SET DATA HERE
 //
 
-var data = require('./ss-symbolicons.js').data;
+// var data = require('./ss-symbolicons.js').data;
+var data = require('./ss-standard.js').data;
 
 //
 // Define the plist templates
